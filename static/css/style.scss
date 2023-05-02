@@ -1,0 +1,25 @@
+// npx sass style.scss:style.css --style compressed --no-source-map
+
+$blue: #46668c;
+$blue-light: #9db1cc;
+$blue-dark: #26404a;
+
+$font-family-title: "Courier New", Courier, monospace;
+$font-family-base: "Arial", sans-serif;
+
+@import "./node_modules/bootstrap/scss/bootstrap.scss";
+
+$date-width: 2.9rem;
+$date-gutter: 0.5rem;
+
+h1,
+h2,
+h3 {
+  color: $blue-dark;
+  font-family: $font-family-title;
+}
+
+.my-name {
+  font-family: $font-family-title;
+  font-size: 110%;
+}
