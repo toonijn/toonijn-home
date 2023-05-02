@@ -30,7 +30,7 @@ function get_image($id)
     <div class="row">
       <div class="col mt-5">
         <h1>Welcome!</h1>
-        <p>My name is Toon (a Dutch name, pronounced as <a href="https://en.wiktionary.org/wiki/Toon#Dutch">/ton/</a>). I am a mathematician with a profound interest in the intersection between computer science and mathematics. I love taking on challenges, these can be technical (like <a href="/thesis/">my PhD thesis</a> which I will defend at the end of June), or more approachable (like the animations you can find below). Challenges allow me to explore mathematics and computer-science. But they also test my ability to solve problems or explain and visualize ideas clearly.</p>
+        <p>My name is Toon (a Dutch name, pronounced as <a href="https://en.wiktionary.org/wiki/Toon#Dutch">/ton/</a>). I am a mathematician with a profound interest in the intersection between computer science and mathematics. I love taking on challenges, these can be technical (like <a href="/thesis/">my PhD thesis</a> which I will defend at the end of June), or more approachable (like the animations you can find below). Challenges allow me to explore mathematics and computer science and they also test my ability to solve problems or explain and visualize ideas clearly.</p>
 
         <p>If you want to get to know me, let me give you a few suggestions:</p>
         <ul>

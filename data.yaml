@@ -77,7 +77,7 @@
   img: "fractals"
   name: "Fractalen"
   info_nl: "Voor 200 jaar ugent heb ik enkele fractalen gevisualiseerd: de convergentie-basins van het Newton-Raphson algoritme voor complexe functies, de Julia-fractalen en de klassieke Mandelbrot."
-  info: "o celebrate 200 years of Ghent University, I made visualized some fractals: convergence basins of Newton's method for complex functions, Julia's fractals and the classical Mandelbrot."
+  info: "To celebrate 200 years of Ghent University, I made visualized some fractals: convergence basins of Newton's method for complex functions, Julia's fractals and the classical Mandelbrot."
   date: "October 2017"
 
 - src: "newton-raphson"
