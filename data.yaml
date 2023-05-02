@@ -53,6 +53,12 @@
   info: "For the SciCADE conference in Iceland, I presented a talk about our new mathematical results."
   date: "June 2022"
 
+- src: "talks/hyperbolic"
+  img: "talk-hyperbolic"
+  name: "Hyperbolic geometry in VR - slides"
+  info: "For the Day of Science 2019, I presented a talk about hyperbolic geometry. These are the slides."
+  date: "November 2019"
+
 - src: "pint-of-science"
   img: "pint-of-science-2019"
   name: "Pint of Science 2019"
@@ -88,7 +94,7 @@
   info: "The incomprehensible computational power of a GPU is illustrated by solving the wave equations."
   date: "December 2018"
 
-- src: "counting-eigenvalues"
+- src: "talks/counting-eigenvalues"
   img: "counting_eigenvalues"
   name: "Counting eigenvalues"
   info_nl: "Voor de NEPA (numerics for evolutive problems and applications) seminaries heb ik een voordracht gegeven over hoe de index van eigenwaarden van elliptische operatoren bepaald kan worden."
